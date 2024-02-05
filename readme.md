@@ -1,1 +1,1 @@
-testing
+django-setup-urls-views
